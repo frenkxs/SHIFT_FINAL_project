@@ -1,0 +1,14 @@
+name: SHIFT-upset
+title: SHIFT-upset
+username:
+account: frenkxs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4717134
+bundleId: 5534560
+url: https://frenkxs.shinyapps.io/SHIFT-upset/
+when: 1643806060.37763
+lastSyncTime: 1643806060.37763
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/upset_data.csv
